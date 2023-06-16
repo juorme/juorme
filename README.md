@@ -10,7 +10,7 @@
 </a>
 
 </br></br>
-<hr />
+
 
 ## Tecnologias que uso
 <div style="display: inline_block">
