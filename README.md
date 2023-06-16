@@ -11,6 +11,7 @@
 
 </br></br>
 <hr />
+
 ## Tecnologias que uso
 <div style="display: inline_block">
   <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
